@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sehaj</h1>
 <h3 align="center">A passionate programmer from Australia</h3>
 
-- 🔭 I’m currently working on **Traveller Website**
+- 🔭 I’m currently working on a **Traveller Website**
 
 - 🌱 I’m currently learning **JS,AI/ML,Ruby**
 
